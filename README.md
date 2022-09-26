@@ -2,7 +2,7 @@
 --------------------------------------------
 privateRouter đơn giản
 
-/**
+```
 const ProtectedRoute = ({ isAdmin, component: Component, ...rest }) => {
   const { loading, isAuthenticated, user } = useSelector((state) => state.user);
 
@@ -29,6 +29,6 @@ const ProtectedRoute = ({ isAdmin, component: Component, ...rest }) => {
 };
 
 export default ProtectedRoute;
-*/
+`
 -----------------------------
 
