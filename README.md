@@ -156,19 +156,19 @@ export const http = new Http();
 ```
 -----------------------------
 # Cấu trúc thư mục
-1. public: Folder này của React tạo ra, mình không bàn tới nhé <space><space>
-2. @types: Chứa các file định nghĩa interface, type cho Typescript \n
-3. apis: Hay còn gọi là services. Chứa các khai báo function get api như axios,… \n
-  App: Chứa component App \n
-  assets: Chứa ảnh, videos, file, … \n
-  components: Chứa các folder component, trong mỗi folder là các file component \n
-  constansts: Chứa các các hằng số, enum \n
-  guards: Chứa các Route cần quyền truy cập \n
-  helpers: Chứa các function hay dùng, lặp đi lặp lại \n
-  hooks: Chứa các hook đang dùng \n
-  layouts: Chứa layout của dự án \n
-  pages: Chứa các trang của dự án \n
-  reducer: Chứa file reducer \n
-  routes: Chứa các route \n
-  store: chứa file store
+1. public: Folder này của React tạo ra, mình không bàn tới nhé
+2. @types: Chứa các file định nghĩa interface, type cho Typescript
+3. apis: Hay còn gọi là services. Chứa các khai báo function get api như axios,…
+4. App: Chứa component App
+5. assets: Chứa ảnh, videos, file, …
+6. components: Chứa các folder component, trong mỗi folder là các file component
+7. constansts: Chứa các các hằng số, enum
+8. guards: Chứa các Route cần quyền truy cập
+9. helpers: Chứa các function hay dùng, lặp đi lặp lại
+10. hooks: Chứa các hook đang dùng
+11. layouts: Chứa layout của dự án
+12. pages: Chứa các trang của dự án
+13. reducer: Chứa file reducer
+14. routes: Chứa các route
+15. store: chứa file store
 ------------------
