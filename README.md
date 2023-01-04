@@ -156,6 +156,8 @@ export const http = new Http();
 ```
 -----------------------------
 # Cấu trúc thư mục
+-----------------------
+
 public: Folder này của React tạo ra, mình không bàn tới nhé
 @types: Chứa các file định nghĩa interface, type cho Typescript
 apis: Hay còn gọi là services. Chứa các khai báo function get api như axios,…
